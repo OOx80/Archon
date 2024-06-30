@@ -1,0 +1,1971 @@
+[
+  {
+    "hex_signature": "00",
+    "offset": "0",
+    "extension": ["PIC", "PIF", "SEA", "YTR"],
+    "description": "IBM Storyboard bitmap file, Windows Program Information File, Mac Stuffit Self-Extracting Archive, IRIS OCR data file"
+  },
+  {
+    "hex_signature": "0000000C4A584C200D0A870A",
+    "offset": "0",
+    "extension": "jxl",
+    "description": "Image encoded in the JPEG XL format"
+  },
+  {
+    "hex_signature": "0000003C0000003F000000780000006D0000006C00000020",
+    "offset": ["0", "after BOM"],
+    "extension": "xml",
+    "description": "eXtensible Markup Language"
+  },
+  {
+    "hex_signature": "00000100",
+    "offset": "0",
+    "extension": "ico",
+    "description": "Computer icon encoded in ICO file format"
+  },
+  {
+    "hex_signature": "000001B3",
+    "offset": "0",
+    "extension": ["mpg", "mpeg"],
+    "description": "MPEG-1 video and MPEG-2 video (MPEG-1 Part 2 and MPEG-2 Part 2)"
+  },
+  {
+    "hex_signature": "000001BA",
+    "offset": "0",
+    "extension": ["m2p", "vob", "mpg", "mpeg"],
+    "description": "MPEG Program Stream (MPEG-1 Part 1 and MPEG-2 Part 1)"
+  },
+  {
+    "hex_signature": "00001A000010040000000000",
+    "offset": "0",
+    "extension": "wk3",
+    "description": "Lotus 1-2-3 spreadsheet (v3) file"
+  },
+  {
+    "hex_signature": "00001A000210040000000000",
+    "offset": "0",
+    "extension": ["wk4", "wk5"],
+    "description": "Lotus 1-2-3 spreadsheet (v4, v5) file"
+  },
+  {
+    "hex_signature": "00001A00051004",
+    "offset": "0",
+    "extension": "123",
+    "description": "Lotus 1-2-3 spreadsheet (v9) file"
+  },
+  {
+    "hex_signature": "0000020006040600080000000000",
+    "offset": "0",
+    "extension": "wk1",
+    "description": "Lotus 1-2-3 spreadsheet (v1) file"
+  },
+  {
+    "hex_signature": "000003F3",
+    "offset": "0",
+    "description": "Amiga Hunk executable file"
+  },
+  {
+    "hex_signature": "000049494958505200004D4D585052",
+    "offset": "0",
+    "extension": "qxd",
+    "description": "Quark Express document"
+  },
+  {
+    "hex_signature": "0000FEFF",
+    "offset": "0",
+    "extension": ["txt", "others"],
+    "description": "UTF-32BE byte order mark for text"
+  },
+  {
+    "hex_signature": "00010000",
+    "offset": "0",
+    "description": "Palm Desktop Data File (Access format)"
+  },
+  {
+    "hex_signature": "0001000000",
+    "offset": "0",
+    "extension": ["ttf", "tte", "dfont"],
+    "description": "TrueType font"
+  },
+  {
+    "hex_signature": "000100004D534953414D204461746162617365",
+    "offset": "0",
+    "extension": "mny",
+    "description": "Microsoft Money file"
+  },
+  {
+    "hex_signature": "000100005374616E64617264204A6574204442",
+    "offset": "0",
+    "extension": "mdb",
+    "description": "Microsoft Access Database"
+  },
+  {
+    "hex_signature": "000100005374616E6461726420414345204442",
+    "offset": "0",
+    "extension": "accdb",
+    "description": "Microsoft Access 2007 Database"
+  },
+  {
+    "hex_signature": "00014244",
+    "offset": "0",
+    "extension": "DBA",
+    "description": "Palm Desktop To Do Archive"
+  },
+  {
+    "hex_signature": "00014454",
+    "offset": "0",
+    "extension": "TDA",
+    "description": "Palm Desktop Calendar Archive"
+  },
+  {
+    "hex_signature": "003C003F0078006D006C0020",
+    "offset": ["0", "after BOM"],
+    "extension": "xml",
+    "description": "eXtensible Markup Language"
+  },
+  {
+    "hex_signature": "0061736D",
+    "offset": "0",
+    "extension": "wasm",
+    "description": "WebAssembly binary format"
+  },
+
+  {
+    "hex_signature": "0000000C6A5020200D0A870A",
+    "offset": "0",
+    "extension": ["jp2", "j2k", "jpf", "jpm", "jpg2", "j2c", "jpc", "jpx", "mj2"],
+    "description": "JPEG 2000 format"
+  },
+  {
+    "hex_signature": "FF4FFF51",
+    "offset": "0",
+    "extension": ["jp2", "j2k", "jpf", "jpm", "jpg2", "j2c", "jpc", "jpx", "mj2"],
+    "description": "JPEG 2000 format"
+  },
+  {
+    "hex_signature": "04224D18",
+    "offset": "0",
+    "extension": "lz4",
+    "description": "LZ4 Frame Format"
+  },
+  {
+    "hex_signature": "05070000424F424F050700000000000000000000000001",
+    "offset": "0",
+    "extension": "cwk",
+    "description": "AppleWorks 5 document"
+  },
+  {
+    "hex_signature": "0607E100424F424F0607E10000000000000000000001",
+    "offset": "0",
+    "extension": "cwk",
+    "description": "AppleWorks 6 document"
+  },
+  {
+    "hex_signature": "0A0D0D0A",
+    "offset": "0",
+    "extension": "pcapng",
+    "description": "PCAP Next Generation Dump File Format"
+  },
+  {
+    "hex_signature": "0A166F72672E626974636F696E2E7072",
+    "offset": "0",
+    "extension": "wallet",
+    "description": "MultiBit Bitcoin wallet file"
+  },
+  {
+    "hex_signature": "0D444F43",
+    "offset": "0",
+    "extension": "doc",
+    "description": "DeskMate Document file"
+  },
+  {
+    "hex_signature": "0DF01DC0",
+    "offset": "0",
+    "extension": "cdb",
+    "description": "MikroTik WinBox Connection Database (Address Book)"
+  },
+  {
+    "hex_signature": "0E4E65726F49534F",
+    "offset": "0",
+    "extension": "nri",
+    "description": "Nero CD Compilation"
+  },
+  {
+    "hex_signature": "0E574B53",
+    "offset": "0",
+    "extension": "wks",
+    "description": "DeskMate Worksheet"
+  },
+  {
+    "hex_signature": "0EFEFF",
+    "offset": "0",
+    "extension": ["txt", "others"],
+    "description": "SCSU byte order mark for text"
+  },
+  {
+    "hex_signature": "0F534942454C495553",
+    "offset": "0",
+    "extension": "sib",
+    "description": "Sibelius Music - Score file"
+  },
+  {
+    "hex_signature": "01FF02040302",
+    "offset": "0",
+    "extension": "drw",
+    "description": "Micrografx vector graphic file"
+  },
+  {
+    "hex_signature": "1A08",
+    "offset": "0",
+    "extension": "arc",
+    "description": "ARC archive file"
+  },
+
+  {
+    "hex_signature": "1A45DFA3",
+    "offset": "0",
+    "extension": ["mkv", "mka", "mks", "mk3d", "webm"],
+    "description": "Matroska media container, including WebM"
+  },
+  {
+    "hex_signature": "1B4C7561",
+    "offset": "0",
+    "extension": "luac",
+    "description": "Lua bytecode"
+  },
+  {
+    "hex_signature": "1F8B",
+    "offset": "0",
+    "extension": ["gz", "tar.gz"],
+    "description": "GZIP compressed file"
+  },
+  {
+    "hex_signature": "1F9D",
+    "offset": "0",
+    "extension": ["z", "tar.z"],
+    "description": "compressed file (often tar zip) using Lempel-Ziv-Welch algorithm"
+  },
+  {
+    "hex_signature": "1FA0",
+    "offset": "0",
+    "extension": ["z", "tar.z"],
+    "description": "Compressed file (often tar zip) using LZH algorithm"
+  },
+  {
+    "hex_signature": "02005A57525400000000000000000000",
+    "offset": "0",
+    "extension": "cwk",
+    "description": "Claris Works word processing doc"
+  },
+  {
+    "hex_signature": "02647373",
+    "offset": "0",
+    "extension": "dss",
+    "description": "Digital Speech Standard (Olympus, Grundig, & Phillips) v2"
+  },
+  {
+    "hex_signature": "20020162A01EAB0702000000",
+    "offset": "0",
+    "extension": "tde",
+    "description": "Tableau Datasource"
+  },
+  {
+    "hex_signature": "213C617263683E0A",
+    "offset": "0",
+    "extension": "deb",
+    "description": "linux deb file"
+  },
+  {
+    "hex_signature": "21424D4E",
+    "offset": "0",
+    "extension": "pst",
+    "description": "Microsoft Outlook Personal Storage Table file"
+  },
+  {
+    "hex_signature": "2321",
+    "offset": "0",
+    "extension": "",
+    "description": "Script or data to be passed to the program following the shebang (#!)"
+  },
+  {
+    "hex_signature": "23254D6F64756C65",
+    "offset": "0",
+    "extension": "",
+    "description": "Modulefile for Environment Modules"
+  },
+  {
+    "hex_signature": "2453444930303031",
+    "offset": "0",
+    "extension": "",
+    "description": "System Deployment Image, a disk image format used by Microsoft"
+  },
+  {
+    "hex_signature": "25215053",
+    "offset": "0",
+    "extension": "ps",
+    "description": "PostScript document"
+  },
+  {
+    "hex_signature": "252150532D41646F62652D332E3020455053462D332E30",
+    "offset": "0",
+    "extension": ["eps", "epsf"],
+    "description": "Encapsulated PostScript file version 3.0"
+  },
+  {
+    "hex_signature": "252150532D41646F62652D332E3120455053462D332E30",
+    "offset": "0",
+    "extension": ["eps", "epsf"],
+    "description": "Encapsulated PostScript file version 3.1"
+  },
+  {
+    "hex_signature": "255044462D",
+    "offset": "0",
+    "extension": "pdf",
+    "description": "PDF document"
+  },
+  {
+    "hex_signature": "27051956",
+    "offset": "0",
+    "extension": "",
+    "description": "U-Boot / uImage. Das U-Boot Universal Boot Loader."
+  },
+  {
+    "hex_signature": "28B52FFD",
+    "offset": "0",
+    "extension": "zst",
+    "description": "Zstandard compress"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D",
+    "offset": "0",
+    "extension": ["crt", "pem"],
+    "description": "PEM encoded X.509 certificate"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E20434552544946494341544520524551554553542D2D2D2D2D",
+    "offset": "0",
+    "extension": ["csr", "pem"],
+    "description": "PEM encoded X.509 Certificate Signing Request"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E2050524956415445204B45592D2D2D2D2D",
+    "offset": "0",
+    "extension": ["key", "pem"],
+    "description": "PEM encoded X.509 PKCS#8 private key"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E204453412050524956415445204B45592D2D2D2D2D",
+    "offset": "0",
+    "extension": ["key", "pem"],
+    "description": "PEM encoded X.509 PKCS#1 DSA private key"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E205253412050524956415445204B45592D2D2D2D2D",
+    "offset": "0",
+    "extension": ["key", "pem"],
+    "description": "PEM encoded X.509 PKCS#1 RSA private key"
+  }
+
+  {
+    "hex_signature": "2D686C302D",
+    "description": "-lh0-",
+    "extension": "lzh",
+    "notes": "Lempel Ziv Huffman archive file Method 0 (No compression)"
+  },
+  {
+    "hex_signature": "2D686C352D",
+    "description": "-lh5-",
+    "extension": "lzh",
+    "notes": "Lempel Ziv Huffman archive file Method 5 (8 KiB sliding window)"
+  },
+  {
+    "hex_signature": "2A2A4143452A2A",
+    "description": "**ACE**",
+    "extension": "ace",
+    "notes": "ACE (compressed file format)[citation needed]"
+  },
+  {
+    "hex_signature": "2B2F76382B2F76392B2F763B2B2F763F",
+    "description": "+/v8+/v9+/v+/v/",
+    "extension": "",
+    "notes": "UTF-7 byte order mark for text[28][27]"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E204F50454E5353482050524956415445204B45592D2D2D2D2D",
+    "description": "-----BEGIN OPENSSH PRIVATE KEY-----",
+    "extension": "",
+    "notes": "OpenSSH private key file"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E20504750205055424C4943204B455920424C4F434B2D2D2D2D2D",
+    "description": "-----BEGIN PGP PUBLIC KEY BLOCK-----",
+    "extension": "asc",
+    "notes": "Armored PGP public key"
+  },
+  {
+    "hex_signature": "2D2D2D2D2D424547494E2053534832204B45592D2D2D2D2D",
+    "description": "-----BEGIN SSH2 PUBLIC KEY-----",
+    "extension": "pub",
+    "notes": "OpenSSH public key file"
+  },
+  {
+    "hex_signature": "2E736E64",
+    "description": ".snd",
+    "extension": "au",
+    "notes": "Au audio file format"
+  },
+  {
+    "hex_signature": "2F2A2058504D202A2F",
+    "description": "/* XPM */",
+    "extension": "xpm",
+    "notes": "X PixMap"
+  },
+  {
+    "hex_signature": "0300000041505052",
+    "description": "␃␀␀␀APPR",
+    "extension": "adx",
+    "notes": "Approach index file"
+  },
+  {
+    "hex_signature": "03647373",
+    "description": "␃dss",
+    "extension": "dss",
+    "notes": "Digital Speech Standard (Olympus, Grundig, & Phillips) v3"
+  },
+  {
+    "hex_signature": "3026B2758E66CF11A6D900AA0062CE6C",
+    "description": "0&²uŽfÏ␑¦Ù␀ª␀bÎl",
+    "extension": "asf",
+    "notes": "Advanced Systems Format[34]"
+  },
+  {
+    "hex_signature": "3082",
+    "description": "0‚",
+    "extension": "der",
+    "notes": "DER encoded X.509 certificate"
+  },
+  {
+    "hex_signature": "310A3030",
+    "description": "1␊00",
+    "extension": "srt",
+    "notes": "SubRip File"
+  },
+  {
+    "hex_signature": "3412AA55",
+    "description": "4␒ªU",
+    "extension": "vpk",
+    "notes": "VPK file, used to store game data for some Source Engine games"
+  },
+  {
+    "hex_signature": "3748030200000000583530394B4559",
+    "description": "7H␃␂␀␀␀␀X509KEY",
+    "extension": "kdb",
+    "notes": "KDB file"
+  },
+  {
+    "hex_signature": "377ABC27AF271C",
+    "description": "7z¼¯'␜",
+    "extension": "7z",
+    "notes": "7-Zip File Format"
+  },
+  {
+    "hex_signature": "38425053",
+    "description": "8BPS",
+    "extension": "psd",
+    "notes": "Photoshop Document file, Adobe Photoshop's native file format"
+  },
+  {
+    "hex_signature": "3C726F626C6F7821",
+    "description": "<roblox!",
+    "extension": "rbxl",
+    "notes": "Roblox place file [68]"
+  },
+  {
+    "hex_signature": "3F5F",
+    "description": "?_",
+    "extension": "hlp",
+    "notes": "Windows 3.x/95/98 Help file"
+  },
+  {
+    "hex_signature": "3A290A",
+    "description": ":)␊",
+    "extension": "sml",
+    "notes": "Smile file"
+  },
+  {
+    "hex_signature": "3A4261736520",
+    "description": ":Base ",
+    "extension": "cnt",
+    "notes": "Windows 3.x - Windows 95 Help Contents"
+  },
+  {
+    "hex_signature": "3C0000003F000000780000006D0000006C00000020000000",
+    "description": "<␀␀␀?␀␀␀x␀␀␀m␀␀␀l␀␀␀␠␀␀␀",
+    "extension": "xml",
+    "notes": "eXtensible Markup Language[26][62]"
+  },
+  {
+    "hex_signature": "3C003F0078006D006C0020",
+    "description": "<␀?␀x␀m␀l␀␠␀",
+    "extension": "xml",
+    "notes": "eXtensible Markup Language[26][62]"
+  },
+  {
+    "hex_signature": "3C3C3C204F7261636C6520564D205669727475616C426F78204469736B20496D616765203E3E3E",
+    "description": "<<< Oracle VM VirtualBox Disk Image >>>",
+    "extension": "vdi",
+    "notes": "VirtualBox Virtual Hard Disk file format"
+  },
+  {
+    "hex_signature": "3C3F786D6C20",
+    "description": "<?xml␠",
+    "extension": "xml",
+    "notes": "eXtensible Markup Language[26][62]"
+  },
+  {
+    "hex_signature": "414646",
+    "description": "AFF",
+    "extension": "aff",
+    "notes": "Advanced Forensics Format"
+  },
+  {
+    "hex_signature": "41474433",
+    "description": "AGD3",
+    "extension": "fh8",
+    "notes": "FreeHand 8 document[46][47]"
+  },
+  {
+    "hex_signature": "41542654464F524D444A56",
+    "description": "AT&TFORMDJV",
+    "extension": "djvu",
+    "notes": "DjVu document"
+  },
+  {
+    "hex_signature": "4241434B4D494B454449534B",
+    "description": "BACKMIKEDISK",
+    "extension": "bac",
+    "notes": "AmiBack Amiga Backup data file"
+  },
+  {
+    "hex_signature": "424C454E444552",
+    "description": "BLENDER",
+    "extension": "blend",
+    "notes": "Blender File Format[85]"
+  },
+  {
+    "hex_signature": "424D",
+    "description": "BM",
+    "extension": "bmp",
+    "notes": "BMP file, a bitmap format used mostly in the Windows world"
+  },
+  {
+    "hex_signature": "425A68",
+    "description": "BZh",
+    "extension": "bz2",
+    "notes": "Compressed file using Bzip2 algorithm"
+  },
+  {
+    "hex_signature": "433634207461706520696D6167652066696C65",
+    "description": "C64 tape image file",
+    "extension": "t64",
+    "notes": "Commodore 64 tape image"
+  },
+  {
+    "hex_signature": "43363420434152545249444745202020",
+    "description": "C64 CARTRIDGE",
+    "extension": "crt",
+    "notes": "Commodore 64 cartridge image"
+  },
+  {
+    "hex_signature": "435753",
+    "description": "CWS",
+    "extension": "swf",
+    "notes": "Adobe Flash .swf"
+  },
+  {
+    "hex_signature": "43723234",
+    "description": "Cr24",
+    "extension": "crx",
+    "notes": "Google Chrome extension[44] or packaged app[45]"
+  },
+  {
+    "hex_signature": "444141",
+    "description": "DAA",
+    "extension": "daa",
+    "notes": "Direct Access Archive PowerISO"
+  },
+  {
+    "hex_signature": "44434D015041333050413330",
+    "description": "DCM␁PA30PA30",
+    "extension": "",
+    "notes": "Windows Update Binary Delta Compression file[56]"
+  },
+  {
+    "hex_signature": "445241434F",
+    "description": "DRACO",
+    "extension": "drc",
+    "notes": "3D model compressed with Google Draco[83]"
+  },
+  {
+    "hex_signature": "454D5533",
+    "description": "EMU3",
+    "extension": "ez3",
+    "notes": "Emulator III synth samples"
+  },
+  {
+    "hex_signature": "454D5832",
+    "description": "EMX2",
+    "extension": "ez2",
+    "notes": "Emulator Emaxsynth samples"
+  },
+  {
+    "hex_signature": "455202000000",
+    "description": "ER␂␀␀␀",
+    "extension": "toast",
+    "notes": "Roxio Toast disc image file"
+  },
+  {
+    "hex_signature": "455646",
+    "description": "EVF",
+    "extension": "e01",
+    "notes": "EnCase EWF version 1 format"
+  },
+
+  {
+    "signature": "45564632",
+    "extension": "Ex01",
+    "offset": 0,
+    "description": "EnCase EWF version 2 format"
+  },
+  {
+    "signature": "464C4946",
+    "extension": "flif",
+    "offset": 0,
+    "description": "Free Lossless Image Format"
+  },
+  {
+    "signature": "464C56",
+    "extension": "flv",
+    "offset": 0,
+    "description": "Flash Video file"
+  },
+  {
+    "signature": "464F524D????????38535658",
+    "extension": "8svx, 8sv, svx, snd, iff",
+    "offset": 0,
+    "description": "IFF 8-Bit Sampled Voice"
+  },
+  {
+    "signature": "464F524D????????4143424D",
+    "extension": "acbm, iff",
+    "offset": 0,
+    "description": "Amiga Contiguous Bitmap"
+  },
+  {
+    "signature": "464F524D????????41494646",
+    "extension": "aiff, aif, aifc, snd, iff",
+    "offset": 0,
+    "description": "Audio Interchange File Format"
+  },
+  {
+    "signature": "464F524D????????414E424D",
+    "extension": "anbm, iff",
+    "offset": 0,
+    "description": "IFF Animated Bitmap"
+  },
+  {
+    "signature": "464F524D????????414E494D",
+    "extension": "anim, iff",
+    "offset": 0,
+    "description": "IFF CEL Animation"
+  },
+  {
+    "signature": "464F524D????????434D5553",
+    "extension": "cmus, mus, iff",
+    "offset": 0,
+    "description": "IFF Musical Score"
+  },
+  {
+    "signature": "464F524D????????46414E54",
+    "extension": "iff",
+    "offset": 0,
+    "description": "Amiga Fantavision Movie"
+  },
+  {
+    "signature": "464F524D????????46415858",
+    "extension": "faxx, fax, iff",
+    "offset": 0,
+    "description": "IFF Facsimile Image"
+  },
+  {
+    "signature": "464F524D????????46545854",
+    "extension": "ftxt, iff",
+    "offset": 0,
+    "description": "IFF Formatted Text"
+  },
+  {
+    "signature": "464F524D????????494C424D",
+    "extension": "ilbm, lbm, ibm, iff",
+    "offset": 0,
+    "description": "IFF Interleaved Bitmap Image"
+  },
+  {
+    "signature": "464F524D????????534D5553",
+    "extension": "smus, smu, mus, iff",
+    "offset": 0,
+    "description": "IFF Simple Musical Score"
+  },
+  {
+    "signature": "464F524D????????5955564E",
+    "extension": "yuvn, yuv, iff",
+    "offset": 0,
+    "description": "IFF YUV Image"
+  },
+  {
+    "signature": "465753",
+    "extension": "swf",
+    "offset": 0,
+    "description": "Adobe Flash .swf"
+  },
+  {
+    "signature": "47",
+    "extension": "ts, tsv, tsa, mpg, mpeg",
+    "offset": 0,
+    "description": "MPEG Transport Stream (MPEG-2 Part 1)"
+  },
+  {
+    "signature": "4753522D31353431",
+    "extension": "g64",
+    "offset": 0,
+    "description": "Commodore 64 1541 disk image (G64 format)"
+  },
+  {
+    "signature": "474946383761,474946383961",
+    "extension": "gif",
+    "offset": 0,
+    "description": "Image file encoded in the Graphics Interchange Format (GIF)"
+  },
+  {
+    "signature": "47524942",
+    "extension": "grib, grib2",
+    "offset": 0,
+    "description": "Gridded data (commonly weather observations or forecasts) in the WMO GRIB or GRIB2 format"
+  },
+  {
+    "signature": "494433",
+    "extension": "mp3",
+    "offset": 0,
+    "description": "MP3 file with an ID3v2 container"
+  },
+  {
+    "signature": "49492A00,49492A00100000004352",
+    "extension": "tif, tiff, cr2",
+    "offset": 0,
+    "description": "Tagged Image File Format (TIFF), Canon RAW Format Version 2"
+  },
+  {
+    "signature": "494E4458",
+    "extension": "idx",
+    "offset": 0,
+    "description": "AmiBack Amiga Backup index file"
+  },
+  {
+    "signature": "49536328",
+    "extension": "cab",
+    "offset": 0,
+    "description": "InstallShield CAB Archive File"
+  },
+  {
+    "signature": "495453460300000060000000",
+    "extension": "chm",
+    "offset": 0,
+    "description": "MS Windows HtmlHelp Data"
+  },
+  {
+    "signature": "49735A21",
+    "extension": "isz",
+    "offset": 0,
+    "description": "Compressed ISO image"
+  },
+  {
+    "signature": "4E4553",
+    "extension": "nes",
+    "offset": 0,
+    "description": "Nintendo Entertainment System image file"
+  },
+  {
+    "signature": "4A6F7921",
+    "extension": "",
+    "offset": 0,
+    "description": "Preferred Executable Format"
+  },
+  {
+    "signature": "4B434D53",
+    "extension": "icm",
+    "offset": 0,
+    "description": "ICC profile"
+  },
+  {
+    "signature": "4B444D",
+    "extension": "vmdk",
+    "offset": 0,
+    "description": "VMDK files"
+  },
+  {
+    "signature": "4B504B41",
+    "extension": "pak",
+    "offset": 0,
+    "description": "Capcom RE Engine game data archives"
+  },
+  {
+    "signature": "4B57414A",
+    "extension": "??_",
+    "offset": 0,
+    "description": "Windows 3.1x Compressed File"
+  },
+  {
+    "signature": "4C5A4950",
+    "extension": "lz",
+    "offset": 0,
+    "description": "lzip compressed file"
+  },
+  {
+    "signature": "4C664C65",
+    "extension": "evt",
+    "offset": 0,
+    "description": "Windows Event Viewer file format"
+  },
+  {
+    "signature": "4C6FA7949340",
+    "extension": "xml",
+    "offset": 0,
+    "description": "eXtensible Markup Language"
+  },
+  {
+    "signature": "4D3CB2A1",
+    "extension": "pcap",
+    "offset": 0,
+    "description": "Libpcap File Format (nanosecond-resolution)"
+  },
+  {
+    "signature": "4D494C20",
+    "extension": "stg",
+    "offset": 0,
+    "description": "\"SEAN : Session Analysis\" Training file"
+  },
+  {
+    "signature": "4D4C5649",
+    "extension": "MLV",
+    "offset": 0,
+    "description": "Magic Lantern Video file"
+  },
+  {
+    "signature": "4D4D002A",
+    "extension": "tif, tiff",
+    "offset": 0,
+    "description": "Tagged Image File Format (TIFF)"
+  },
+  {
+    "signature": "4D534346",
+    "extension": "cab",
+    "offset": 0,
+    "description": "Microsoft Cabinet file"
+  },
+  {
+    "signature": "4D5357494D000000D000000000",
+    "extension": "wim, swm, esd",
+    "offset": 0,
+    "description": "Windows Imaging Format file"
+  },
+  {
+    "signature": "4D546864",
+    "extension": "mid, midi",
+    "offset": 0,
+    "description": "MIDI sound file"
+  }
+
+  {
+    "hex_signature": "4D5A",
+    "description": "MZ",
+    "offset": 0,
+    "extensions": ["exe", "dll", "mui", "sys", "scr", "cpl", "ocx", "ax", "iec", "ime", "rs", "tsp", "fon", "efi"],
+    "type": "DOS MZ executable and its descendants (including NE and PE)"
+  },
+  {
+    "hex_signature": "4D53487C4253487C",
+    "description": "MSH|BSH|",
+    "offset": 0,
+    "extensions": ["hl7"],
+    "type": "Health Level Seven (HL7) Standard for electronic data exchange"
+  },
+  {
+    "hex_signature": "4E45531A",
+    "description": "NES␚",
+    "offset": 0,
+    "extensions": ["nes"],
+    "type": "Nintendo Entertainment System ROM file"
+  },
+  {
+    "hex_signature": "4E555255494D470A4E55525550414C",
+    "description": "NURUIMG\nNURUPAL",
+    "offset": 0,
+    "extensions": ["nui", "nup"],
+    "type": "nuru ASCII/ANSI image and palette files"
+  },
+  {
+    "hex_signature": "4F4152??",
+    "description": "OAR?",
+    "offset": 0,
+    "extensions": ["oar"],
+    "type": "OAR file archive format, where ?? is the format version."
+  },
+  {
+    "hex_signature": "4F5243",
+    "description": "ORC",
+    "offset": 0,
+    "extensions": ["orc"],
+    "type": "Apache ORC (Optimized Row Columnar) file format"
+  },
+  {
+    "hex_signature": "4F54544F",
+    "description": "OTTO",
+    "offset": 0,
+    "extensions": ["otf"],
+    "type": "OpenType font"
+  },
+  {
+    "hex_signature": "4F626A01",
+    "description": "Obj␁",
+    "offset": 0,
+    "extensions": ["avro"],
+    "type": "Apache Avro binary file format"
+  },
+  {
+    "hex_signature": "4F676753",
+    "description": "OggS",
+    "offset": 0,
+    "extensions": ["ogg", "oga", "ogv"],
+    "type": "Ogg, an open source media container format"
+  },
+  {
+    "hex_signature": "50310A",
+    "description": "P1␊",
+    "offset": 0,
+    "extensions": ["pbm"],
+    "type": "Portable bitmap ASCII"
+  },
+  {
+    "hex_signature": "50340A",
+    "description": "P4␊",
+    "offset": 0,
+    "extensions": ["pbm"],
+    "type": "Portable bitmap binary"
+  },
+  {
+    "hex_signature": "50320A",
+    "description": "P2␊",
+    "offset": 0,
+    "extensions": ["pgm"],
+    "type": "Portable Gray Map ASCII"
+  },
+  {
+    "hex_signature": "50350A",
+    "description": "P5␊",
+    "offset": 0,
+    "extensions": ["pgm"],
+    "type": "Portable Gray Map binary"
+  },
+  {
+    "hex_signature": "50330A",
+    "description": "P3␊",
+    "offset": 0,
+    "extensions": ["ppm"],
+    "type": "Portable Pixmap ASCII"
+  },
+  {
+    "hex_signature": "50360A",
+    "description": "P6␊",
+    "offset": 0,
+    "extensions": ["ppm"],
+    "type": "Portable Pixmap binary"
+  },
+  {
+    "hex_signature": "50415231",
+    "description": "PAR1",
+    "offset": 0,
+    "extensions": [],
+    "type": "Apache Parquet columnar file format"
+  },
+  {
+    "hex_signature": "504B0304504B0506504B0708",
+    "description": "PK␃␄\nPK␅␆\nPK␇␈",
+    "offset": 0,
+    "extensions": ["zip", "aar", "apk", "docx", "epub", "ipa", "jar", "kmz", "maff", "msix", "odp", "ods", "odt", "pk3", "pk4", "pptx", "usdz", "vsdx", "xlsx", "xpi"],
+    "type": "zip file format and formats based on it, such as EPUB, JAR, ODF, OOXML"
+  },
+  {
+    "hex_signature": "504D4343",
+    "description": "PMCC",
+    "offset": 0,
+    "extensions": ["grp"],
+    "type": "Windows 3.x Program Manager Program Group file format"
+  },
+  {
+    "hex_signature": "504D4F43434D4F43",
+    "description": "PMOCCMOC",
+    "offset": 0,
+    "extensions": ["dat"],
+    "type": "Windows Files And Settings Transfer Repository"
+  },
+  {
+    "hex_signature": "50755454592D557365722D4B65792D46696C652D323A",
+    "description": "PuTTY-User-Key-File-2:",
+    "offset": 0,
+    "extensions": ["ppk"],
+    "type": "PuTTY private key file version 2"
+  },
+  {
+    "hex_signature": "50755454592D557365722D4B65792D46696C652D333A",
+    "description": "PuTTY-User-Key-File-3:",
+    "offset": 0,
+    "extensions": ["ppk"],
+    "type": "PuTTY private key file version 3"
+  },
+  {
+    "hex_signature": "514649",
+    "description": "QFI",
+    "offset": 0,
+    "extensions": ["qcow"],
+    "type": "qcow file format"
+  },
+  {
+    "hex_signature": "52494646????????41434F4E",
+    "description": "RIFF????ACON",
+    "offset": 0,
+    "extensions": ["ani"],
+    "type": "Animated cursor"
+  },
+  {
+    "hex_signature": "52494646????????41564920",
+    "description": "RIFF????AVI␠",
+    "offset": 0,
+    "extensions": ["avi"],
+    "type": "Audio Video Interleave video format"
+  },
+  {
+    "hex_signature": "52494646????????43444441",
+    "description": "RIFF????CDDA",
+    "offset": 0,
+    "extensions": ["cda"],
+    "type": ".cda file"
+  },
+  {
+    "hex_signature": "52494646????????514C434D",
+    "description": "RIFF????QLCM",
+    "offset": 0,
+    "extensions": ["qcp"],
+    "type": "Qualcomm PureVoice file format"
+  },
+  {
+    "hex_signature": "52494646????????57415645",
+    "description": "RIFF????WAVE",
+    "offset": 0,
+    "extensions": ["wav"],
+    "type": "Waveform Audio File Format"
+  },
+  {
+    "hex_signature": "52494646????????57454250",
+    "description": "RIFF????WEBP",
+    "offset": 0,
+    "extensions": ["webp"],
+    "type": "Google WebP image file, where ?? ?? ?? ?? is the file size."
+  },
+  {
+    "hex_signature": "52494658????????4647444D",
+    "description": "RIFX????FGDM",
+    "offset": 0,
+    "extensions": ["dcr"],
+    "type": "Adobe Shockwave"
+  },
+  {
+    "hex_signature": "52494658????????4D563933",
+    "description": "RIFX????MV93",
+    "offset": 0,
+    "extensions": ["dir", "dxr", "drx"],
+    "type": "Macromedia Director file format"
+  },
+  {
+    "hex_signature": "524E4301524E4302",
+    "description": "RNC␁\nRNC␂",
+    "offset": 0,
+    "extensions": [],
+    "type": "Compressed file using Rob Northen Compression (version 1 and 2) algorithm"
+  },
+  {
+    "hex_signature": "5253564B44415441",
+    "description": "RSVKDATA",
+    "offset": 0,
+    "extensions": ["rs"],
+    "type": "QuickZip rs compressed archive"
+  },
+  {
+    "hex_signature": "526172211A0700526172211A070100",
+    "description": "Rar!␚␇␀\nRar!␚␇␁␀",
+    "offset": 0,
+    "extensions": ["rar"],
+    "type": "Roshal ARchive compressed archive v1.50 onwards and v5.00 onwards"
+  },
+  {
+    "hex_signature": "52656365697665643A",
+    "description": "Received:",
+    "offset": 0,
+    "extensions": ["eml"],
+    "type": "Email Message"
+  },
+  {
+    "hex_signature": "53445058",
+    "description": "SDPX",
+    "offset": 0,
+    "extensions": ["dpx"],
+    "type": "SMPTE DPX image"
+  },
+  {
+    "hex_signature": "53455136",
+    "description": "SEQ6",
+    "offset": 0,
+    "extensions": ["rc"],
+    "type": "RCFile columnar file format"
+  },
+  {
+    "hex_signature": "53494D504C4520203D202020202020202020202020202020202020202020202054",
+    "description": "SIMPLE␠␠\n=␠␠␠␠␠␠␠\n␠␠␠␠␠␠␠␠\n␠␠␠␠␠T",
+    "offset": 0,
+    "extensions": ["fits"],
+    "type": "Flexible Image Transport System (FITS)"
+  },
+  {
+    "hex_signature": "53503031",
+    "description": "SP01",
+    "offset": 0,
+    "extensions": ["bin"],
+    "type": "Amazon Kindle Update Package"
+  },
+  {
+    "hex_signature": "53514C69746520666F726D6174203300",
+    "description": "SQLite format 3␀",
+    "offset": 0,
+    "extensions": ["sqlitedb", "sqlite", "db"],
+    "type": "SQLite Database"
+  },
+
+  {
+    "hex_signature": "535A4444",
+    "text": "SZDD",
+    "offset": 0,
+    "extension": "??_",
+    "description": "Windows 9x Compressed File"
+  },
+  {
+    "hex_signature": "535A444488F02733",
+    "text": "SZDDˆð'3",
+    "offset": 0,
+    "extension": "??_",
+    "description": "Microsoft compressed file in Quantum format, used prior to Windows XP. File can be decompressed using Extract.exe or Expand.exe distributed with earlier versions of Windows. After compression, the last character of the original filename extension is replaced with an underscore, e.g. ‘Setup.exe’ becomes ‘Setup.ex_’."
+  },
+  {
+    "hex_signature": "54415045",
+    "text": "TAPE",
+    "offset": 0,
+    "extension": "",
+    "description": "Microsoft Tape Format"
+  },
+  {
+    "hex_signature": "54444546",
+    "text": "TDEF",
+    "offset": 0,
+    "extension": "TDEF",
+    "description": "Telegram Desktop Encrypted File"
+  },
+  {
+    "hex_signature": "54444624",
+    "text": "TDF$",
+    "offset": 0,
+    "extension": "TDF$",
+    "description": "Telegram Desktop File"
+  },
+  {
+    "hex_signature": "5555AAAA",
+    "text": "UUªª",
+    "offset": 0,
+    "extension": "pcv",
+    "description": "PhotoCap Vector"
+  },
+  {
+    "hex_signature": "58464952????39364D",
+    "text": "XFIR????39VM",
+    "offset": 0,
+    "extension": "dir\ndxr\ndrx",
+    "description": "Macromedia Director file format"
+  },
+  {
+    "hex_signature": "58464952????4D444746",
+    "text": "XFIR????MDGF",
+    "offset": 0,
+    "extension": "dcr",
+    "description": "Adobe Shockwave"
+  },
+  {
+    "hex_signature": "58504453",
+    "text": "XPDS",
+    "offset": 0,
+    "extension": "dpx",
+    "description": "SMPTE DPX image"
+  },
+  {
+    "hex_signature": "5A4D",
+    "text": "ZM",
+    "offset": 0,
+    "extension": "exe",
+    "description": "DOS ZM executable and its descendants (rare)"
+  },
+  {
+    "hex_signature": "5A4F4F",
+    "text": "ZOO",
+    "offset": 0,
+    "extension": "zoo",
+    "description": "Zoo (file format)"
+  },
+  {
+    "hex_signature": "5B5A6F6E655472616E736665725D",
+    "text": "[ZoneTransfer]",
+    "offset": 0,
+    "extension": "Identifier",
+    "description": "Microsoft Zone Identifier for URL Security Zones"
+  },
+  {
+    "hex_signature": "060E2B34020501010D0102010102",
+    "text": "␆␎+4␂␅␁␁␍␁␂␁␁␂",
+    "offset": "0-65535 (run-in)",
+    "extension": "mxf",
+    "description": "Material Exchange Format file"
+  },
+  {
+    "hex_signature": "0606EDF5D81D46E5BD31EFE7FE74B71D",
+    "text": "␆␆íõØ␝Få½1ïçþt·␝",
+    "offset": 0,
+    "extension": "indd",
+    "description": "Adobe InDesign document"
+  },
+  {
+    "hex_signature": "60EA",
+    "text": "`ê",
+    "offset": 0,
+    "extension": "arj",
+    "description": "ARJ"
+  },
+  {
+    "hex_signature": "626F6F6B000000006D61726B00000000",
+    "text": "book␀␀␀␀mark␀␀␀␀",
+    "offset": 0,
+    "extension": "alias",
+    "description": "macOS file Alias (Symbolic link)"
+  },
+  {
+    "hex_signature": "62767832",
+    "text": "bvx2",
+    "offset": 0,
+    "extension": "lzfse",
+    "description": "LZFSE - Lempel-Ziv style data compression algorithm using Finite State Entropy coding. OSS by Apple."
+  },
+  {
+    "hex_signature": "62706C697374",
+    "text": "bplist",
+    "offset": 0,
+    "extension": "plist",
+    "description": "Binary Property List file"
+  },
+  {
+    "hex_signature": "636F6E6563746978",
+    "text": "conectix",
+    "offset": 0,
+    "extension": "vhd",
+    "description": "Windows Virtual PC Virtual Hard Disk file format"
+  },
+  {
+    "hex_signature": "6465780A30333500",
+    "text": "dex␊035␀",
+    "offset": 0,
+    "extension": "dex",
+    "description": "Dalvik Executable"
+  },
+  {
+    "hex_signature": "65877856",
+    "text": "e‡xV",
+    "offset": 0,
+    "extension": "p25\nobt",
+    "description": "PhotoCap Object Templates"
+  },
+  {
+    "hex_signature": "664C6143",
+    "text": "fLaC",
+    "offset": 0,
+    "extension": "flac",
+    "description": "Free Lossless Audio Codec"
+  },
+  {
+    "hex_signature": "67696D7020786366",
+    "text": "gimp xcf",
+    "offset": 0,
+    "extension": "xcf",
+    "description": "XCF (file format)"
+  },
+  {
+    "hex_signature": "69636E73",
+    "text": "icns",
+    "offset": 0,
+    "extension": "icns",
+    "description": "Apple Icon Image format"
+  },
+  {
+    "hex_signature": "6D61696E2E6273",
+    "text": "main.bs",
+    "offset": 0,
+    "extension": "mgw",
+    "description": "Nintendo Game & Watch image file"
+  },
+  {
+    "hex_signature": "6D646600",
+    "text": "mdf␀",
+    "offset": 0,
+    "extension": "m",
+    "description": "M2 Archive, used by game developer M2"
+  },
+  {
+    "hex_signature": "6E2B3100",
+    "text": "n+1",
+    "offset": 344,
+    "extension": "nii",
+    "description": "Single file NIfTI format, used extensively in biomedical imaging."
+  },
+  {
+    "hex_signature": "6E693100",
+    "text": "ni1",
+    "offset": 344,
+    "extension": "hdr",
+    "description": "Header file of a .hdr/.img pair in NIfTI format, used extensively in biomedical imaging."
+  },
+  {
+    "hex_signature": "07534B46",
+    "text": "␇SKF",
+    "offset": 0,
+    "extension": "skf",
+    "description": "SkinCrafter skin file"
+  },
+  {
+    "hex_signature": "0764743264647464",
+    "text": "␇dt2ddtd",
+    "offset": 0,
+    "extension": "dtd",
+    "description": "DesignTools 2D Design file"
+  },
+  {
+    "hex_signature": "72656766",
+    "text": "regf",
+    "offset": 0,
+    "extension": "dat\nhiv",
+    "description": "Windows Registry file"
+  },
+  {
+    "hex_signature": "73646266",
+    "text": "sdbf",
+    "offset": 8,
+    "extension": "sdb",
+    "description": "Windows customized database"
+  },
+  {
+    "hex_signature": "746F7833",
+    "text": "tox3",
+    "offset": 0,
+    "extension": "tox",
+    "description": "Open source portable voxel file"
+  },
+  {
+    "hex_signature": "762F3101",
+    "text": "v/1␁",
+    "offset": 0,
+    "extension": "exr",
+    "description": "OpenEXR image"
+  },
+  {
+    "hex_signature": "7668647866696C65",
+    "text": "vhdxfile",
+    "offset": 0,
+    "extension": "vhdx",
+    "description": "Windows Virtual PC Windows 8 Virtual Hard Disk file format"
+  },
+  {
+    "hex_signature": "774F4632",
+    "text": "wOF2",
+    "offset": 0,
+    "extension": "woff2",
+    "description": "WOFF File Format 2.0"
+  },
+  {
+    "hex_signature": "774F4646",
+    "text": "wOFF",
+    "offset": 0,
+    "extension": "woff",
+    "description": "WOFF File Format 1.0"
+  },
+  {
+    "hex_signature": "7801",
+    "text": "x␁",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "No Compression (no preset dictionary)"
+  },
+  {
+    "hex_signature": "7820",
+    "text": "x␠",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "No Compression (with preset dictionary)"
+  }
+
+  {
+    "hex_signature": "785634",
+    "signature": "xV4",
+    "offset": 0,
+    "extension": ["pbt", "pdt", "pea", "peb", "pet", "pgt", "pict", "pjt", "pkt", "pmt"],
+    "description": "PhotoCap Template"
+  },
+  {
+    "hex_signature": "785E",
+    "signature": "x^",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "Best speed (no preset dictionary)"
+  },
+  {
+    "hex_signature": "78617221",
+    "signature": "xar!",
+    "offset": 0,
+    "extension": "xar",
+    "description": "eXtensible ARchive format[48]"
+  },
+  {
+    "hex_signature": "787D",
+    "signature": "x}",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "Best speed (with preset dictionary)"
+  },
+  {
+    "hex_signature": "789C",
+    "signature": "xœ",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "Default Compression (no preset dictionary)"
+  },
+  {
+    "hex_signature": "78BB",
+    "signature": "x»",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "Default Compression (with preset dictionary)"
+  },
+  {
+    "hex_signature": "78DA",
+    "signature": "xÚ",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "Best Compression (no preset dictionary)"
+  },
+  {
+    "hex_signature": "78F9",
+    "signature": "xù",
+    "offset": 0,
+    "extension": "zlib",
+    "description": "Best Compression (with preset dictionary)"
+  },
+  {
+    "hex_signature": "7B5C72667431",
+    "signature": "{\\rtf1",
+    "offset": 0,
+    "extension": "rtf",
+    "description": "Rich Text Format"
+  },
+  {
+    "hex_signature": "7F454C46",
+    "signature": "␡ELF",
+    "offset": 0,
+    "extension": "",
+    "description": "Executable and Linkable Format"
+  },
+  {
+    "hex_signature": "802A5FD7",
+    "signature": "€*_×",
+    "offset": 0,
+    "extension": "cin",
+    "description": "Kodak Cineon image"
+  },
+  {
+    "hex_signature": "85000003",
+    "signature": "…??␃",
+    "offset": 0,
+    "extension": "pgp",
+    "description": "PGP file [73]"
+  },
+  {
+    "hex_signature": "89504E470D0A1A0A",
+    "signature": "‰PNG␍␊␚␊",
+    "offset": 0,
+    "extension": "png",
+    "description": "Image encoded in the Portable Network Graphics format[23]"
+  },
+  {
+    "hex_signature": "0E031301",
+    "signature": "␅␃␓␁",
+    "offset": 0,
+    "extension": [
+      "hdf4",
+      "h4"
+    ],
+    "description": "Data stored in version 4 of the Hierarchical Data Format."
+  },
+  {
+    "hex_signature": "894844460D0A1A0A",
+    "signature": "‰HDF␍␊␚␊",
+    "offset": [
+      0,
+      512,
+      1024,
+      2048
+    ],
+    "extension": [
+      "hdf5",
+      "h5"
+    ],
+    "description": "Data stored in version 5 of the Hierarchical Data Format."
+  },
+  {
+    "hex_signature": "8B455202000000",
+    "signature": "‹ER␂␀␀␀",
+    "offset": 0,
+    "extension": "toast",
+    "description": "Roxio Toast disc image file"
+  },
+  {
+    "hex_signature": "212D31534C4F421F",
+    "signature": "!-1SLOB␟",
+    "offset": 0,
+    "extension": "slob",
+    "description": "Slob (sorted list of blobs) is a read-only, compressed data store with dictionary-like interface[89]"
+  },
+  {
+    "hex_signature": "233F52414449414E43450A",
+    "signature": "#?RADIANCE␊",
+    "offset": 0,
+    "extension": "hdr",
+    "description": "Radiance High Dynamic Range image file"
+  },
+  {
+    "hex_signature": "23204D6963726F736F667420446576656C6F7065722053747564696F",
+    "signature": "# Microsoft Developer Studio",
+    "offset": 0,
+    "extension": "dsp",
+    "description": "Microsoft Developer Studio project file"
+  },
+  {
+    "hex_signature": "23204469736B2044657363726970746F",
+    "signature": "# Disk Descripto",
+    "offset": 0,
+    "extension": "vmdk",
+    "description": "VMware 4 Virtual Disk description file (split disk)"
+  },
+  {
+    "hex_signature": "2321414D52",
+    "signature": "#!AMR",
+    "offset": 0,
+    "extension": "amr",
+    "description": "Adaptive Multi-Rate ACELP (Algebraic Code Excited Linear Prediction) Codec, commonly audio format with GSM cell phones."
+  },
+  {
+    "hex_signature": "232153494C4B0A",
+    "signature": "#!SILK␊",
+    "offset": 0,
+    "extension": "sil",
+    "description": "Audio compression format developed by Skype"
+  },
+  {
+    "hex_signature": "23407E5E",
+    "signature": "#@~^",
+    "offset": 0,
+    "extension": "vbe",
+    "description": "VBScript Encoded script"
+  },
+  {
+    "hex_signature": "234558544D3355",
+    "signature": "#EXTM3U",
+    "offset": 0,
+    "extension": [
+      "m3u",
+      "m3u8"
+    ],
+    "description": "Multimedia playlist"
+  },
+  {
+    "hex_signature": "303730373037",
+    "signature": "070707",
+    "offset": 0,
+    "extension": "cpio",
+    "description": "cpio archive file[20]"
+  },
+  {
+    "hex_signature": "31304C46",
+    "signature": "10LF",
+    "offset": 0,
+    "extension": "flm",
+    "description": "FL Studio Mobile Project File"
+  },
+  {
+    "hex_signature": "415243",
+    "signature": "ARC",
+    "offset": 0,
+    "extension": "arc",
+    "description": "Capcom MT Framework game data archives"
+  },
+  {
+    "hex_signature": "4153544D2D453537",
+    "signature": "ASTM-E57",
+    "offset": 0,
+    "extension": "e57",
+    "description": "ASTM E57 3D file format"
+  },
+  {
+    "hex_signature": "437265617469766520566F6963652046696C651A1A00",
+    "signature": "Creative Voice File",
+    "offset": 0,
+    "extension": "voc",
+    "description": "Creative Voice file"
+  },
+  {
+    "hex_signature": "456C6646696C65",
+    "signature": "ElfFile",
+    "offset": 0,
+    "extension": "evtx",
+    "description": "Windows Event Viewer XML file format"
+  },
+  {
+    "hex_signature": "464C6864",
+    "signature": "FLhd",
+    "offset": 0,
+    "extension": "flp",
+    "description": "FL Studio Project File"
+  },
+  {
+    "hex_signature": "485A4C5200000018",
+    "signature": "HZLR",
+    "offset": 0,
+    "extension": "hazelrules",
+    "description": "Noodlesoft Hazel [92]"
+  },
+  {
+    "hex_signature": "49574144",
+    "signature": "IWAD",
+    "offset": 0,
+    "extension": "wad",
+    "description": "internal WAD (main resource file of Doom)[7]"
+  },
+  {
+    "hex_signature": "50575333",
+    "signature": "PWS3",
+    "offset": 0,
+    "extension": "psafe3",
+    "description": "Password Gorilla Password Database"
+  },
+  {
+    "hex_signature": "524B4D43323130",
+    "signature": "RKMC210",
+    "offset": 0,
+    "extension": "",
+    "description": "Vormetric Encryption DPM Version 2.1 Header[93]"
+  },
+  {
+    "hex_signature": "5241463634",
+    "signature": "RAF64",
+    "offset": 0,
+    "extension": "",
+    "description": "Report Builder file from Digital Metaphors"
+  },
+  {
+    "hex_signature": "52494646????????524D4D50",
+    "signature": "RIFF????RMMP",
+    "offset": 0,
+    "extension": "mmm",
+    "description": "MacroMind Multimedia Movie or Microsoft Multimedia Movie"
+  },
+  {
+    "hex_signature": "52494646????????5644524D",
+    "signature": "RIFF????VDRM",
+    "offset": 0,
+    "extension": "vdr",
+    "description": "VirtualDub"
+  }
+
+  {
+    "hex_signature": "52494646????????73686235",
+    "description": "Corel SHOW! 5.0 background",
+    "extension": "shb"
+  },
+  {
+    "hex_signature": "52494646????????73687235",
+    "description": "Corel SHOW! 5.0 player",
+    "extension": "shr"
+  },
+  {
+    "hex_signature": "52494646????????73687734",
+    "description": "Corel SHOW! 4.0",
+    "extension": "shw"
+  },
+  {
+    "hex_signature": "52494646????????73687735",
+    "description": "Corel SHOW! 5.0",
+    "extension": "shw"
+  },
+  {
+    "hex_signature": "52594646????????54524944",
+    "description": "TrID",
+    "extension": "trd"
+  },
+  {
+    "hex_signature": "56495333",
+    "description": "Resource file Visionaire 3.x Engine",
+    "extension": ""
+  },
+  {
+    "hex_signature": "70777264617461",
+    "description": "SAP Power Monitor (version 1.1.0 and higher) data file",
+    "extension": "pwrdata"
+  },
+  {
+    "hex_signature": "716f6966",
+    "description": "QOI - The “Quite OK Image Format”",
+    "extension": "qoi"
+  },
+  {
+    "hex_signature": "A03241A0A0A0",
+    "description": "Commodore 64 1541 disk image (D64 format)",
+    "extension": "d64"
+  },
+  {
+    "hex_signature": "A03344A0A0",
+    "description": "Commodore 64 1581 disk image (D81 format)",
+    "extension": "d81"
+  },
+  {
+    "hex_signature": "A1B23C4D",
+    "description": "Libpcap File Format (nanosecond-resolution)",
+    "extension": "pcap"
+  },
+  {
+    "hex_signature": "A1B2C3D4",
+    "description": "Libpcap File Format",
+    "extension": "pcap"
+  },
+  {
+    "hex_signature": "ACED",
+    "description": "Serialized Java Data",
+    "extension": ""
+  },
+  {
+    "hex_signature": "BEBAFECA",
+    "description": "Palm Desktop Calendar Archive",
+    "extension": "DBA"
+  },
+  {
+    "hex_signature": "C9",
+    "description": "CP/M 3 and higher with overlays",
+    "extension": "com"
+  },
+  {
+    "hex_signature": "CAFEBABE",
+    "description": "Java class file, Mach-O Fat Binary",
+    "extension": "class"
+  },
+  {
+    "hex_signature": "CEFAEDFE",
+    "description": "Mach-O binary (reverse byte ordering scheme, 32-bit)",
+    "extension": ""
+  },
+  {
+    "hex_signature": "CF8401",
+    "description": "Lepton compressed JPEG image",
+    "extension": "lep"
+  },
+  {
+    "hex_signature": "CFFAEDFE",
+    "description": "Mach-O binary (reverse byte ordering scheme, 64-bit)",
+    "extension": ""
+  },
+  {
+    "hex_signature": "D04F5053",
+    "description": "Interleaf PrinterLeaf / WorldView document format (now Broadvision QuickSilver)",
+    "extension": "pl"
+  },
+  {
+    "hex_signature": "D0CF11E0A1B11AE1",
+    "description": "Compound File Binary Format, a container format defined by Microsoft COM. It can contain the equivalent of files and directories. It is used by Windows Installer and for documents in older versions of Microsoft Office. It can be used by other programs as well that rely on the COM and OLE API's.",
+    "extension": "doc, xls, ppt, msi, msg"
+  },
+  {
+    "hex_signature": "D4C3B2A1",
+    "description": "Libpcap File Format",
+    "extension": "pcap"
+  },
+  {
+    "hex_signature": "D7CDC69A",
+    "description": "Windows Metafile",
+    "extension": "wmf"
+  },
+  {
+    "hex_signature": "DB0ACE00",
+    "description": "OpenGL Iris Perfomer .PFB (Performer Fast Binary)",
+    "extension": ""
+  },
+  {
+    "hex_signature": "DD736673",
+    "description": "UTF-EBCDIC byte order mark for text",
+    "extension": ""
+  },
+  {
+    "hex_signature": "EDABEEDB",
+    "description": "RedHat Package Manager (RPM) package",
+    "extension": "rpm"
+  },
+  {
+    "hex_signature": "EFBBBF",
+    "description": "UTF-8 byte order mark, commonly seen in text files.",
+    "extension": "txt, others"
+  },
+  {
+    "hex_signature": "FFD8FFDB",
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "extension": "jpg, jpeg"
+  },
+  {
+    "hex_signature": "FFD8FFE000104A4649460001",
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "extension": "jpg, jpeg"
+  },
+  {
+    "hex_signature": "FFD8FFEE",
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "extension": "jpg, jpeg"
+  },
+  {
+    "hex_signature": "FFD8FFE1????457869660000",
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "extension": "jpg, jpeg"
+  },
+  {
+    "hex_signature": "FFD8FFE0",
+    "description": "JPEG raw or in the JFIF or Exif file format",
+    "extension": "jpg"
+  },
+  {
+    "hex_signature": "FD377A585A00",
+    "description": "XZ compression utility using LZMA2 compression",
+    "extension": "xz, tar.xz"
+  },
+  {
+    "hex_signature": "FEEDFACE",
+    "description": "Mach-O binary (32-bit)",
+    "extension": ""
+  },
+  {
+    "hex_signature": "FEEDFACF",
+    "description": "Mach-O binary (64-bit)",
+    "extension": ""
+  },
+  {
+    "hex_signature": "FEEDFEED",
+    "description": "JKS Javakey Store",
+    "extension": ""
+  },
+  {
+    "hex_signature": "FEFF",
+    "description": "UTF-16BE byte order mark, commonly seen in text files.",
+    "extension": "txt, others"
+  },
+  {
+    "hex_signature": "FF0A",
+    "description": "Image encoded in the JPEG XL format",
+    "extension": "jxl"
+  },
+  {
+    "hex_signature": "FFFBFFFEFFF2",
+    "description": "MPEG-1 Layer 3 file without an ID3 tag or with an ID3v1 tag (which is appended at the end of the file)",
+    "extension": "mp3"
+  },
+  {
+    "hex_signature": "FFFE",
+    "description": "UTF-16LE byte order mark, commonly seen in text files.",
+    "extension": "txt, others"
+  },
+  {
+    "hex_signature": "FFFE0000",
+    "description": "UTF-32LE byte order mark for text",
+    "extension": "txt, others"
+  },
+  {
+    "hex_signature": "667479704D534E56",
+    "description": "MPEG-4 video file",
+    "extension": "mp4"
+  },
+  {
+    "hex_signature": "667479703367",
+    "description": "3rd Generation Partnership Project 3GPP and 3GPP2 multimedia files",
+    "extension": "3gp, 3g2"
+  },
+  {
+    "hex_signature": "6674797068656963667479706D",
+    "description": "High Efficiency Image Container (HEIC)",
+    "extension": "heic"
+  },
+  {
+    "hex_signature": "6674797069736F6D",
+    "description": "ISO Base Media file (MPEG-4)",
+    "extension": "mp4"
+  },
+  {
+    "hex_signature": "00000000000000000000000000000000",
+    "description": "PalmPilot Database/Document File",
+    "extension": "PDB"
+  },
+  {
+    "hex_signature": "4449434D",
+    "description": "DICOM Medical File Format",
+    "extension": "dcm"
+  },
+  {
+    "hex_signature": "75737461720030307573746172202000",
+    "description": "tar archive",
+    "extension": "tar"
+  },
+  {
+    "hex_signature": "4344303031",
+    "description": "ISO9660 CD/DVD image file",
+    "extension": "iso"
+  },
+  {
+    "hex_signature": "4344303031",
+    "description": "CD-i CD image file",
+    "extension": "cdi"
+  },
+  {
+    "hex_signature": "6B6F6C79",
+    "description": "Apple Disk Image file",
+    "extension": "dmg"
+  }
+]
